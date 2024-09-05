@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Manh-Duc Doan"
-excerpt: "About"
+excerpt: "Home"
 author_profile: true
 redirect_from: 
   - /about/
