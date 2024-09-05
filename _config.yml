@@ -23,11 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Manh-Duc Doan"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/Him/His"  
   bio              : "Economist"
   location         : "Hanoi, Vietnam"
   employer         : "Development and Policies Research Center (DEPOCEN)"
-  uri              : # URL
   email            : "duc.doan@depocen.org" 
 
   # Academic websites
@@ -38,7 +37,7 @@ author:
   github           : "https://github.com/ducecon01"
 
   # Social media
-  twitter          : # Username for X / Twitter
+  twitter          : "https://x.com/ManhDucDoan01"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
