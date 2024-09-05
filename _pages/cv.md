@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **BSc.** in **International Economics**, **Foreign Trade University**, 2021-2025
+  * **Thesis Title**: Trade Liberalization and Human Capital Investment: Evidence from Vietnam
+  * **Supervisor**: Ass. Prof., PhD. Nguyen Tuong Anh
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Development and Policies Research Center (DEPOCEN), Hanoi, Vietnam**
+  * Research Assistant (Jul. 2024 -- Present)
+  * Research Intern (Mars 2024 -- Jul. 2024)
+  
+* **Vietnam Institute of Economics & Policy Research (VEPR), Hanoi, Vietnam**
+  * Research Intern (July 2023 -- Oct. 2023)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Research Experience
+======
+* **Research Assistant** for [Prof. Do Quoc Anh](https://sites.google.com/site/qaquocanhdo/) (Monash University) (Aug. 2024 -- Present)
+  * Tasks included: Collect and Analyze data, Literature review
+* **Research Assistant** for Anh Tran (PhD. Student in Economics, Princeton University, US) (Dec. 2023 -- Present)
+  * Tasks included: Methodology, Literature review, Clean and Analyze Data
+* **Research Assistant** for [Prof. Do Ngoc Kien](https://ktkdqt.ftu.edu.vn/do-ngoc-kien/) (Foreign Trade University) (Jul. 2023 -- Present)
+  * Tasks included: Methodology, Literature review, Clean and Analyze Data
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Languages**: English (B2), French (B2), Vietnamese (mother tongue)
+* **Programming & Statistic Languages**: Stata (proficient), R (proficient), Python (proficient)
+* **Markup Language**: \LaTeX
+* **Office and Other Skills**: MS Office (Word, Excel, PowerPoint), SQL, PowerBI
