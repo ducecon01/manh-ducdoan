@@ -30,7 +30,7 @@ Research Experience
   * Tasks included: Collect and Analyze data, Literature review
 * **Research Assistant** for Anh Tran (PhD. Student in Economics, Princeton University, US) (Dec. 2023 -- Present)
   * Tasks included: Methodology, Literature review, Clean and Analyze Data
-* **Research Assistant** for [Prof. Do Ngoc Kien](https://ktkdqt.ftu.edu.vn/do-ngoc-kien/) (Foreign Trade University) (Jul. 2023 -- Present)
+* **Research Assistant** for [PhD. Do Ngoc Kien](https://ktkdqt.ftu.edu.vn/do-ngoc-kien/) (Foreign Trade University) (Jul. 2023 -- Present)
   * Tasks included: Methodology, Literature review, Clean and Analyze Data
   
 Skills
