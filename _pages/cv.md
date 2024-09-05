@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **BSc.** in **International Economics**, **Foreign Trade University**, 2021-2025
+* **BSc.** in **International Economics**, **Foreign Trade University** (2021 -- 2025)
   * **Thesis Title**: Trade Liberalization and Human Capital Investment: Evidence from Vietnam
   * **Supervisor**: Ass. Prof., PhD. Nguyen Tuong Anh
 
@@ -37,5 +37,5 @@ Skills
 ======
 * **Languages**: English (B2), French (B2), Vietnamese (mother tongue)
 * **Programming & Statistic Languages**: Stata (proficient), R (proficient), Python (proficient)
-* **Markup Language**: \LaTeX
+* **Markup Language**: LaTeX
 * **Office and Other Skills**: MS Office (Word, Excel, PowerPoint), SQL, PowerBI
