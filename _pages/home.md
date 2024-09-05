@@ -14,4 +14,4 @@ My research interest focus on several applied microeconomics topics with micro-m
 
 I also serve as research assistant for several research projects. Currently, I am assisting [Prof. Do Quoc Anh](https://sites.google.com/site/qaquocanhdo/) (Monash University) in some works on political economy in Vietnam and the US.
 
-You can find my CV [here](Manh_DucDoan_CV).
+You can find my CV [here](/Manh_DucDoan_CV/).
