@@ -18,5 +18,5 @@ I also serve as research assistant for some research projects. Currently, I am s
 
 My non-academic interest
 ========
-I likes reading, watching and traveling. I also keeping (and sharing) lists of [what I have read](https://docs.google.com/spreadsheets/d/1q8joCoLrbrx7aTreYLG0oRUFF_bp5p53H3fLeW9KnqI/edit?usp=sharing).
+I like reading, watching and traveling. I also keeping (and sharing) lists of [what I have read](https://docs.google.com/spreadsheets/d/1q8joCoLrbrx7aTreYLG0oRUFF_bp5p53H3fLeW9KnqI/edit?usp=sharing).
 In addition, I love sports. I practice some sports such as workouts, swimming,...
