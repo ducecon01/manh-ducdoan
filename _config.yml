@@ -12,7 +12,7 @@ title                    : "Manh-Duc Doan"
 title_separator          : "-"
 name                     : &name "Manh-Duc Doan"
 description              : &description "Researh Assistant at Development and Policies Research Center & BSc. in International Economics at Foreign Trade University, Hanoi, Vietnam"
-url                      : https://ducecon01.github.io/manh-ducdoan/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ducecon01.github.io/manh-ducdoan # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ducecon01.github.io/manh-ducdoan"
 
