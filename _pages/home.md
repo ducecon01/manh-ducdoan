@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my Home's Page!"
+title: "**Manh-Duc Doan**"
 excerpt: "Manh-Duc Doan"
 author_profile: true
 redirect_from: 
