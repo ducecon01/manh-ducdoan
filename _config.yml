@@ -26,12 +26,12 @@ author:
   pronouns         : "He/Him/His"  
   bio              : "Economist"
   location         : "Hanoi, Vietnam"
-  employer         : "Development and Policies Research Center (DEPOCEN)"
+  employer         : "DEPOCEN"
   email            : "duc.doan@depocen.org" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  researchgate     : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=AlF4qnEAAAAJ&hl=en"
+  researchgate     : "https://www.researchgate.net/profile/Doan-Duc-6"
 
   # Repositories and software development
   github           : "https://github.com/ducecon01"
