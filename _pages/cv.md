@@ -40,5 +40,4 @@ Skills
 * **Markup Language**: LaTeX
 * **Office and Other Skills**: MS Office (Word, Excel, PowerPoint), SQL, PowerBI
 
-======
 You can find my entire CV [here](https://www.dropbox.com/scl/fi/99s05toacej6c5dw57fo6/Manh-DucDoan_CV.pdf?rlkey=983qyq9wsjr44yhamxwq2b9lv&st=wtxeuvte&dl=0).
