@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.jpeg"
   name             : # ""
-  pronouns         : "He/Him/His"
+  pronouns         : # "He/Him/His"
   location         : "Hanoi, Vietnam"
   employer         : "DEPOCEN"
   email            : "duc.doan@depocen.org" 
