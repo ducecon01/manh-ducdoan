@@ -19,5 +19,3 @@ I also serve as research assistant for some research projects. Currently, I am s
 My non-academic interest
 ========
 I like reading, watching and traveling. I also keeping (and sharing) lists of [what I have read](https://docs.google.com/spreadsheets/d/1q8joCoLrbrx7aTreYLG0oRUFF_bp5p53H3fLeW9KnqI/edit?usp=sharing). In addition, I love sports and practice some of them, such as workouts, running and swimming...
-
-You can find my entire CV [here](https://www.dropbox.com/scl/fi/99s05toacej6c5dw57fo6/Manh-DucDoan_CV.pdf?rlkey=983qyq9wsjr44yhamxwq2b9lv&st=wtxeuvte&dl=0).
