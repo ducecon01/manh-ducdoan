@@ -14,7 +14,7 @@ I am Manh-Duc Doan, pronounced as "Johan". I am currently Research Assistant at 
 
 My research interest focus on several applied microeconomics topics with micro-methods, especially in labor economics, political economics and development economics.
 
-I also serve as research assistant for some research projects. Currently, I am supporting [Prof. Do Quoc Anh](https://sites.google.com/site/qaquocanhdo/) (Monash University) in some works on political economy in Vietnam and the US.
+I also serve as research assistant for some research projects. Currently, I am supporting [Prof. Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/) (Monash University) in some works on political economy in Vietnam and the US.
 
 My non-academic interest
 ========
