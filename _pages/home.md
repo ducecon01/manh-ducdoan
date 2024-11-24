@@ -8,14 +8,11 @@ redirect_from:
   - /home.html
 ---
 
-About me
+Welcome!
 ========
-I am Manh-Duc Doan, pronounced as "Joah". I am currently Research Assistant at [Development and Policies Research Center](https://depocen.org/en/). I graduated BSc. in International Economics at Foreign Trade University, Hanoi, Vietnam.
+
+Hi! I am Manh-Duc Doan, pronounced as "Joah". 
+
+I am currently Research Assistant at [Development and Policies Research Center](https://depocen.org/en/). I graduated BSc. in International Economics at Foreign Trade University, Hanoi, Vietnam.
 
 My research interest focus on several applied microeconomics topics with micro-methods, especially in labor economics, political economics and development economics.
-
-I also serve as research assistant for some research projects. Currently, I am supporting [Prof. Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/) (Monash University) in some works on political economy in Vietnam and the US.
-
-My non-academic interest
-========
-I like reading, watching and traveling. I also keeping (and sharing) lists of [what I have read](https://docs.google.com/spreadsheets/d/1q8joCoLrbrx7aTreYLG0oRUFF_bp5p53H3fLeW9KnqI/edit?usp=sharing). In addition, I love sports and practice some of them, such as workouts, running and swimming...
